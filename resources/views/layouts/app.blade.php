@@ -8,7 +8,7 @@
         <title>{{config('app.name', 'Han Khuu')}}</title>
 
         <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Raleway:Raleway:100,300,400,600,700,800,900" rel="stylesheet" type="text/css">
 
         <!-- CSS -->
         <link rel="stylesheet" href="css/style.css" type="text/css">
@@ -20,11 +20,19 @@
 
     <body>
         <header class="nav-down">
-            This is your menu.
+            <ul id="top-menu">
+                <li class="active"><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#photos">Photos</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+
+            <div class="avatar">HK</div>
         </header>
 
         @yield('content')
-        
+
 
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

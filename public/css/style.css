@@ -8,53 +8,27 @@ body {
   margin: 0;
 }
 
-/*.full-height {
-    height: 100vh;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Raleway', sans-serif !important;
+  color: #fff !important;
 }
 
-.flex-center {
-    align-items: center;
-    display: flex;
-    justify-content: center;
+h1.header-text {
+  font-size: 100px;
+  font-weight: 900;
+  margin: 0;
 }
-
-.position-ref {
-    position: relative;
-}
-
-.top-right {
-    position: absolute;
-    right: 10px;
-    top: 18px;
-}
-
-.content {
-    text-align: center;
-}
-
-.title {
-    font-size: 84px;
-}
-
-.links > a {
-    color: #636b6f;
-    padding: 0 25px;
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: .1rem;
-    text-decoration: none;
-    text-transform: uppercase;
-}
-
-.m-b-md {
-    margin-bottom: 30px;
-}*/
 
 /* Navbar */
 
 header {
-  background: #f5b335;
-  height: 40px;
+  background: #d4d3c5b0;
+  height: 70px;
   position: fixed;
   top: 0;
   -webkit-transition: top 0.2s ease-in-out;
@@ -63,6 +37,61 @@ header {
 }
 
 .nav-up {
-  top: -40px;
+  top: -70px;
+}
+
+.avatar {
+  margin-top: 20px;
+  margin-right: 20px;
+  font-family: 'Raleway', sans-serif;
+  color: #fff;
+  float: right;
+}
+
+#top-menu {
+  position: absolute;
+  left: 0;
+  list-style: none;
+  padding-left: 20px;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+}
+
+#top-menu li {
+  float: left;
+  margin: 25px 14px 0px 14px;
+}
+
+#top-menu a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#top-menu li.active a {
+  color: #d4d3c5b0;
+  background-color: #fff;
+  padding: 4px 6px;
+  border-radius: 6px;
+}
+
+/* Jumbotron */
+
+.jumbotron-bg-img {
+  background: url("/img/jumbotron.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container.header {
+  padding-top: 90px;
+  text-align: right;
+}
+
+/* About */
+
+.section-about {
+  height: 300vh;
 }
 
