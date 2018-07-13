@@ -16,42 +16,41 @@
 		    </div>
 		</section>
 
-<section>
-  <div class="block">
-    <p>About</p>
-    <p class="line-break margin-top-10"></p>
-    <p class="margin-top-10"></p>
-  </div>
-</section>
+		<section>
+			<div class="block">
+				<p>About</p>
+				<p class="line-break margin-top-10"></p>
+				<p class="margin-top-10"></p>
+			</div>
+		</section>
 
-<section>
-  <div class="parallax-two">
-    <h2>Projects</h2>
-  </div>
-</section>
+		<section>
+				<div class="parallax-two">
+					<h2>Projects</h2>
+				</div>
+		</section>
 
-<section>
-  <div class="block">
-    <p>Projects</p>
-    <p class="line-break margin-top-10"></p>
-    <p class="margin-top-10"></p>
-  </div>
-</section>
+		<section>
+			<div class="block">
+				<p>Projects</p>
+				<p class="line-break margin-top-10"></p>
+				<p class="margin-top-10"></p>
+			</div>
+		</section>
 
-<section>
-  <div class="parallax-three">
-    <h2>Photos</h2>
-  </div>
-</section>
+		<section>
+			<div class="parallax-three">
+				<h2>Photos</h2>
+			</div>
+		</section>
 
-<section>
-  <div class="block">
-    <p>Photos</p>
-    <p class="line-break margin-top-10"></p>
-    <p class="margin-top-10"></p>
-  </div>
-</section>
-  
+		<section>
+			<div class="block">
+				<p>Photos</p>
+				<p class="line-break margin-top-10"></p>
+			<p class="margin-top-10"></p>
+			</div>
+		</section>
 </div>
 
 
