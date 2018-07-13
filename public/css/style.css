@@ -41,6 +41,7 @@ header {
   -webkit-transition: top 0.2s ease-in-out;
   transition: top 0.2s ease-in-out;
   width: 100%;
+  z-index: 5;
 }
 
 .nav-up {
