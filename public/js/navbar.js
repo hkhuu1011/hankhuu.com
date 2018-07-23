@@ -107,14 +107,18 @@ function hasScrolled() {
 }
 
 $("#about").click(function () {
-    console.log('click');
     $('html,body').animate({
         scrollTop: $(".about").offset().top }, 'slow');
 });
 $("#projects").click(function () {
-    console.log('click');
     $('html,body').animate({
         scrollTop: $(".projects").offset().top }, 'slow');
+});
+
+$("#photos").click(function () {
+    console.log('click');
+    $('html,body').animate({
+        scrollTop: $(".photos").offset().top }, 'slow');
 });
 
 /***/ }),
