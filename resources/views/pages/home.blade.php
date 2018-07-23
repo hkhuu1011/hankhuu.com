@@ -17,7 +17,7 @@
 		</section>
 
 		<section>
-			<div id="about" class="block about">
+			<div class="block about">
 				<p>About</p>
 				<p class="line-break margin-top-10"></p>
 				<p class="margin-top-10"></p>
@@ -25,7 +25,7 @@
 		</section>
 
 		<section>
-				<div id="projects" class="parallax-two">
+				<div class="parallax-two projects">
 					<h2>Projects</h2>
 				</div>
 		</section>
@@ -39,7 +39,7 @@
 		</section>
 
 		<section>
-			<div id="photos" class="parallax-three">
+			<div class="parallax-three">
 				<h2>Photos</h2>
 			</div>
 		</section>
@@ -52,6 +52,5 @@
 			</div>
 		</section>
 </div>
-
 
 @endsection
