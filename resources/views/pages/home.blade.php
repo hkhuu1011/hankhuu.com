@@ -53,7 +53,7 @@
 		</section>
 
 		<section>
-			<div class="parallax-four">
+			<div class="parallax-four contact">
 				<h2>Contact</h2>
 			</div>
 		</section>

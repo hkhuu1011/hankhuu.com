@@ -114,11 +114,13 @@ $("#projects").click(function () {
     $('html,body').animate({
         scrollTop: $(".projects").offset().top }, 'slow');
 });
-
 $("#photos").click(function () {
-    console.log('click');
     $('html,body').animate({
         scrollTop: $(".photos").offset().top }, 'slow');
+});
+$("#contact").click(function () {
+    $('html,body').animate({
+        scrollTop: $(".contact").offset().top }, 'slow');
 });
 
 /***/ }),
