@@ -10,7 +10,7 @@
 		</section>
 
 		<section>
-		    <div class="parallax-one">
+		    <div class="parallax-one home">
 		      	<h1 class="header-text">thatsKhuu</h1>
 		        <h5 class="sub-text">Front End Developer | Photographer</h5>
 		    </div>

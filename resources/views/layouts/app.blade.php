@@ -21,7 +21,7 @@
     <body>
         <header class="nav-down">
             <ul id="top-menu">
-                <li class="active"><a href="#home">Home</a></li>
+                <li id="home" class="active"><a href="#home">Home</a></li>
                 <li id="about"><a href="#about">About</a></li>
                 <li id="projects"><a href="#projects">Projects</a></li>
                 <li id="photos"><a href="#photos">Photos</a></li>

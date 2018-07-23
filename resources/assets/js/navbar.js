@@ -37,6 +37,11 @@ function hasScrolled() {
     lastScrollTop = st;
 }
 
+$("#home").click(function() {
+    $('html,body').animate({
+        scrollTop: $(".home").offset().top},
+        'slow');
+});
 $("#about").click(function() {
     $('html,body').animate({
         scrollTop: $(".about").offset().top},
