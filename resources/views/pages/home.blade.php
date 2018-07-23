@@ -17,7 +17,7 @@
 		</section>
 
 		<section>
-			<div id="about" class="block">
+			<div id="about" class="block about">
 				<p>About</p>
 				<p class="line-break margin-top-10"></p>
 				<p class="margin-top-10"></p>
