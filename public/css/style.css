@@ -60,25 +60,38 @@ header {
   position: absolute;
   left: 0;
   list-style: none;
-  padding-left: 20px;
+  /*padding-left: 20px;*/
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
 }
 
 #top-menu li {
   float: left;
-  margin: 25px 14px 0px 14px;
+  margin: 20px 14px 0px 14px;
 }
 
 #top-menu a {
   color: #fff;
   text-decoration: none;
+  display: block;
+  text-align: center;
+  -webkit-transition: .5s all ease-out;
+  transition: .5s all ease-out;
+  padding: 4px 6px 2px 6px;
+  border-radius: 6px;
 }
 
 #top-menu li.active a {
   color: #d4d3c5b0;
   background-color: #fff;
-  padding: 4px 6px;
+  padding: 4px 6px 2px 6px;
+  border-radius: 6px;
+}
+
+#top-menu a:hover {
+  color: #d4d3c5b0;
+  background-color: #fff;
+  padding: 4px 6px 2px 6px;
   border-radius: 6px;
 }
 
