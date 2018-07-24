@@ -37,28 +37,38 @@ function hasScrolled() {
     lastScrollTop = st;
 }
 
-$("#home").click(function() {
-    $('html,body').animate({
-        scrollTop: $(".home").offset().top},
-        'slow');
+$(function() {
+   $("li").click(function() {
+      // remove classes from all
+      $("li").removeClass("active");
+      // add class to the one we clicked
+      $(this).addClass("active");
+   });
+
+   $("#home").click(function() {
+        $('html,body').animate({
+            scrollTop: $(".home").offset().top},
+            'slow');
+    });
+    $("#about").click(function() {
+        $('html,body').animate({
+            scrollTop: $(".about").offset().top},
+            'slow');
+    });
+    $("#projects").click(function() {
+        $('html,body').animate({
+            scrollTop: $(".projects").offset().top},
+            'slow');
+    });
+    $("#photos").click(function() {
+        $('html,body').animate({
+            scrollTop: $(".photos").offset().top},
+            'slow');
+    });
+    $("#contact").click(function() {
+        $('html,body').animate({
+            scrollTop: $(".contact").offset().top},
+            'slow');
+    });
 });
-$("#about").click(function() {
-    $('html,body').animate({
-        scrollTop: $(".about").offset().top},
-        'slow');
-});
-$("#projects").click(function() {
-    $('html,body').animate({
-        scrollTop: $(".projects").offset().top},
-        'slow');
-});
-$("#photos").click(function() {
-    $('html,body').animate({
-        scrollTop: $(".photos").offset().top},
-        'slow');
-});
-$("#contact").click(function() {
-    $('html,body').animate({
-        scrollTop: $(".contact").offset().top},
-        'slow');
-});
+
