@@ -26,7 +26,7 @@
 
 		<section>
 				<div class="parallax-two projects">
-					<h2>Projects</h2>
+					<h2 class="section-title">Projects</h2>
 				</div>
 		</section>
 
@@ -40,7 +40,7 @@
 
 		<section>
 			<div class="parallax-three photos">
-				<h2>Photos</h2>
+				<h2 class="section-title">Photos</h2>
 			</div>
 		</section>
 
@@ -54,7 +54,7 @@
 
 		<section>
 			<div class="parallax-four contact">
-				<h2>Contact</h2>
+				<h2 class="section-title">Contact</h2>
 			</div>
 		</section>
 
