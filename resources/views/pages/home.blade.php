@@ -5,12 +5,12 @@
 	<div id="parallax">
 
 		<section>
-			<div class="header-space">
+			<div class="header-space home">
 			</div>
 		</section>
 
 		<section>
-		    <div class="parallax-one home">
+		    <div class="parallax-one">
 		      	<h1 class="header-text">thatsKhuu</h1>
 		        <h5 class="sub-text">Front End Developer | Photographer</h5>
 		    </div>
