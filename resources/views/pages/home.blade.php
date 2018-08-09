@@ -11,8 +11,10 @@
 
 		<section>
 		    <div class="parallax-one">
-		      	<h1 class="header-text fade-up">thatsKhuu</h1>
-		        <h5 class="sub-text fade-up">Front End Developer | Photographer</h5>
+		    	<div class="animate fadeInUp one">
+			      	<h1 class="header-text">thatsKhuu</h1>
+			        <h5 class="sub-text">Front End Developer | Photographer</h5>
+		    	</div>
 		    </div>
 		</section>
 
