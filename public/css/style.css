@@ -13,7 +13,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+p {
   font-family: 'Raleway', sans-serif !important;
 }
 
@@ -40,11 +41,9 @@ h5.sub-text {
   color: #fff;
 }
 
-.section-title.about {
-  font-size: 40px;
-  font-weight: 700;
-  color: #dadada;
-  font-family: 'Raleway', sans-serif;
+ul {
+  list-style-type: none;
+  padding: 0;
 }
 
 /* Navbar */
@@ -128,7 +127,7 @@ header {
 
 #parallax .block {
   background: white;
-  padding: 60px;
+  padding: 60px 0;
   width: 820px;
   margin: 0 auto;
   text-align: justify;
@@ -313,5 +312,22 @@ header {
 .fadeInUp {
   -webkit-animation-name: fadeInUp;
   animation-name: fadeInUp;
+}
+
+/*About Me Section*/
+
+.about-content {
+  text-align: center;
+  margin: 0;
+  color: #735668;
+  line-height: 2;
+  font-size: 20px;
+}
+
+.section-title {
+  font-size: 65px;
+  font-weight: 700;
+  color: #dadada;
+  font-family: 'Raleway', sans-serif;
 }
 

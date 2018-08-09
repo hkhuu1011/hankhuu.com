@@ -20,10 +20,23 @@
 
 		<section>
 			<div class="block about">
-				<h5 class="section-title about">About Me</h5>
-				<p>Exploring creativity since 1990.</p>
-
-				{{-- Far East (Vietnam) to far West (Washington) to somewhere in between (Florida) - Art (Far East), Tech (Far West, Presently somewhere in the middle, combining both words. --}}
+				<ul class="about-content">
+					<li>
+						<p>Born in Vietnam, raised in Seattle and currently living somewhere in-between in Orlando.</p>
+					</li>
+					<li>
+						<p>Earned my Bachelors in Studio Art, continued education in programming and</p>
+					</li>
+					<li>
+						<p>currently working somewhere in-between as a front-end developer.</p>
+					</li>
+					<li>
+						<h4 class="section-title">East meets West.</h4>
+					</li>
+					<li>
+						<h5 class="section-title">Creativity meets Code.</h5>
+					</li>
+				</ul>
 				<p class="margin-top-10"></p>
 			</div>
 		</section>
