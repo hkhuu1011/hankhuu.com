@@ -138,10 +138,19 @@ $(function () {
 
 /***/ }),
 
+/***/ "./resources/assets/js/transitions.js":
+/***/ (function(module, exports) {
+
+// header-text fade-up on page load
+$('fade-up').delay(1300).animate({ 'marginTop': '+=-80px', 'opacity': '1' }, 800);
+
+/***/ }),
+
 /***/ 1:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__("./resources/assets/js/navbar.js");
+__webpack_require__("./resources/assets/js/navbar.js");
+module.exports = __webpack_require__("./resources/assets/js/transitions.js");
 
 
 /***/ })

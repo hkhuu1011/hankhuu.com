@@ -11,15 +11,17 @@
 
 		<section>
 		    <div class="parallax-one">
-		      	<h1 class="header-text">thatsKhuu</h1>
-		        <h5 class="sub-text">Front End Developer | Photographer</h5>
+		      	<h1 class="header-text fade-up">thatsKhuu</h1>
+		        <h5 class="sub-text fade-up">Front End Developer | Photographer</h5>
 		    </div>
 		</section>
 
 		<section>
 			<div class="block about">
-				<p>About</p>
-				<p class="line-break margin-top-10"></p>
+				<h5 class="section-title about">About Me</h5>
+				<p>Exploring creativity since 1990.</p>
+
+				{{-- Far East (Vietnam) to far West (Washington) to somewhere in between (Florida) - Art (Far East), Tech (Far West, Presently somewhere in the middle, combining both words. --}}
 				<p class="margin-top-10"></p>
 			</div>
 		</section>

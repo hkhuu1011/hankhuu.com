@@ -13,7 +13,10 @@ let mix = require('laravel-mix');
 
 mix.js('resources/assets/js/app.js', 'public/js');
 
-mix.js('resources/assets/js/navbar.js', 'public/js/navbar.js')
+mix.js([
+		'resources/assets/js/navbar.js',
+		'resources/assets/js/transitions.js',
+	], 'public/dist/app.js')
 	.version();
 
 mix.sass('resources/assets/css/style.scss', 'public/css/style.css')
