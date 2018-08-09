@@ -223,7 +223,37 @@ header {
     }
 }
 
-/*Transitions Fade In Up*/
+/*Transition Fade In*/
+.one {
+-webkit-animation-delay: 0.2s;
+-moz-animation-delay: 0.2s;
+animation-delay: 0.2s;
+}
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+.fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+}
+
+/*Transition Fade In Up*/
 .animate {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
@@ -231,7 +261,7 @@ header {
   animation-fill-mode: both;
 }
 
-.one {
+.two {
 -webkit-animation-delay: 0.5s;
 -moz-animation-delay: 0.5s;
 animation-delay: 0.5s;
@@ -268,3 +298,4 @@ animation-delay: 0.5s;
   -webkit-animation-name: fadeInUp;
   animation-name: fadeInUp;
 }
+
