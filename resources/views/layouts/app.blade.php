@@ -33,6 +33,14 @@
 
         @yield('content')
 
+        <footer>
+            <div class="social-logos">
+                <a href=""><img src="img/logo_linked_in.png" /></a>
+                <a href=""><img src="img/logo_github.png" /></a>
+                <a href=""><img src="img/logo_instagram.png" /></a>
+                <a href=""><img src="img/logo_twitter.png" /></a>
+            </div>
+        </footer>
 
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
