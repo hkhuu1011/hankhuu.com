@@ -35,10 +35,10 @@
 
         <footer>
             <div class="social-logos">
-                <a href=""><img src="img/logo_linked_in.png" /></a>
-                <a href=""><img src="img/logo_github.png" /></a>
-                <a href=""><img src="img/logo_instagram.png" /></a>
-                <a href=""><img src="img/logo_twitter.png" /></a>
+                <a href=""><img src="" /></a>
+                <a href=""><img src="" /></a>
+                <a href=""><img src="" /></a>
+                <a href=""><img src="" /></a>
             </div>
         </footer>
 
