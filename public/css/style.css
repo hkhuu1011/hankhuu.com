@@ -314,19 +314,59 @@ header {
 
 /*About Me Section*/
 
-.about-content {
-  text-align: center;
-  margin: 0;
-  color: #735668;
-  line-height: 2;
-  font-size: 20px;
+.section-title {
+  color: #ccc;
+  padding-bottom: 20px;
+  font-weight: 600;
 }
 
-.section-title {
+.about-content {
+  text-align: left;
+  margin: 0;
+  color: #495057;
+  line-height: 1;
+  font-size: 16px;
+}
+
+.custom-text {
   font-size: 65px;
   font-weight: 700;
   color: #dadada;
   font-family: 'Raleway', sans-serif;
+}
+
+/*Photos Section*/
+
+.svg-wrapper {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  margin: 0 auto;
+  width: 320px;
+}
+
+.shape {
+  stroke-dasharray: 140 540;
+  stroke-dashoffset: -474;
+  stroke-width: 8px;
+  fill: transparent;
+  stroke: #495057;
+  border-bottom: 5px solid black;
+  transition: stroke-width 1s, stroke-dashoffset 1s, stroke-dasharray 1s;
+}
+.text {
+  font-family: 'Roboto Condensed';
+  font-size: 22px;
+  line-height: 32px;
+  letter-spacing: 8px;
+  color: grey;
+  top: -48px;
+  position: relative;
+}
+.svg-wrapper:hover .shape {
+  stroke-width: 2px;
+  stroke-dashoffset: 0;
+  stroke-dasharray: 760;
 }
 
 /* Footer */

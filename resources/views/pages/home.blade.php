@@ -20,6 +20,7 @@
 
 		<section>
 			<div class="block about">
+				<div class="section-title">Bio</div>
 				<ul class="about-content">
 					<li>
 						<p>Born in Vietnam, raised in Seattle and currently living somewhere in-between in Orlando.</p>
@@ -31,10 +32,10 @@
 						<p>currently working somewhere in-between as a front-end developer.</p>
 					</li>
 					<li>
-						<h4 class="section-title">East meets West.</h4>
+						<p class="custom-text">East meets West.</p>
 					</li>
 					<li>
-						<h5 class="section-title">Creativity meets Code.</h5>
+						<p class="custom-text">Creativity meets Code.</p>
 					</li>
 				</ul>
 				<p class="margin-top-10"></p>
@@ -63,7 +64,16 @@
 
 		<section>
 			<div class="block">
-				<p>Photos</p>
+				<!-- SVG wrapper -->
+				<div class="svg-wrapper">
+				  <svg height="320" width="320" xmlns="http://www.w3.org/2000/svg">
+				    <rect class="shape" height="320" width="320" />
+
+						<div class="text">Photos</div>
+
+					</svg>
+				</div>
+				<!-- <p>Photos</p> -->
 				<p class="line-break margin-top-10"></p>
 			<p class="margin-top-10"></p>
 			</div>
