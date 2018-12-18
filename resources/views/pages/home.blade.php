@@ -12,7 +12,7 @@
 		<section>
 		    <div class="parallax-one">
 		    	<div class="animate fadeInUp two">
-			      	<h1 class="header-text">thatsKhuu</h1>
+			      	<h1 class="header-text">Han Khuu</h1>
 			        <h5 class="sub-text">Front End Developer | Photographer</h5>
 		    	</div>
 		    </div>
