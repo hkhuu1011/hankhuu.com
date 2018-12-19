@@ -20,25 +20,27 @@
 
 		<section>
 			<div class="block about">
-				<div class="section-title">Bio</div>
-				<ul class="about-content">
-					<li>
-						<p>Born in Vietnam, raised in Seattle and currently living somewhere in-between in Orlando.</p>
-					</li>
-					<li>
-						<p>Earned my Bachelors in Studio Art, continued education in programming and</p>
-					</li>
-					<li>
-						<p>currently working somewhere in-between as a front-end developer.</p>
-					</li>
-					<li>
-						<p class="custom-text">East meets West.</p>
-					</li>
-					<li>
-						<p class="custom-text">Creativity meets Code.</p>
-					</li>
-				</ul>
-				<p class="margin-top-10"></p>
+				<div class="container">
+					<div class="section-title">Bio</div>
+						<ul class="about-content">
+							<li>
+								<p>Born in Vietnam, raised in Seattle and currently living somewhere in-between in Orlando.</p>
+							</li>
+							<li>
+								<p>Earned my Bachelors in Studio Art, continued education in programming and</p>
+							</li>
+							<li>
+								<p>currently working somewhere in-between as a front-end developer.</p>
+							</li>
+							<li>
+								<p class="custom-text">East meets West.</p>
+							</li>
+							<li>
+								<p class="custom-text">Creativity meets Code.</p>
+							</li>
+						</ul>
+					<p class="margin-top-10"></p>
+				</div>
 			</div>
 		</section>
 
