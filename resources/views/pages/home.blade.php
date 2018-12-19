@@ -53,7 +53,7 @@
 				</div>
 		</section> -->
 
-		<section class="hover-underline">
+		<section class="projects hover-underline">
 			<div class="block">
 				<div class="container">
 					<div class="section-title sliding-u-l-r">Projects</div>
@@ -73,7 +73,7 @@
 			</div>
 		</section> -->
 
-		<section class="hover-underline">
+		<section class="photos hover-underline">
 			<div class="block">
 				<div class="container">
 					<div class="section-title sliding-u-l-r">Photography</div>
@@ -162,7 +162,7 @@
 			</div>
 		</section> -->
 
-		<section class="hover-underline">
+		<section class="contact hover-underline">
 			<div class="block">
 				<div class="container">
 					<div class="section-title sliding-u-l-r">Contact</div>
@@ -174,7 +174,7 @@
 			</div>
 		</section>
 
-		<section class="hover-underline">
+		<section class="instagram hover-underline">
 			<div class="block">
 				<div class="container">
 					<div class="section-title sliding-u-l-r">Instagram Feed</div>
@@ -205,7 +205,7 @@
 
 						<?php foreach ($result->data as $post): ?>
 							<!-- Renders images. @Options (thumbnail,low_resoulution, high_resolution) -->
-							<a class="group" rel="group1" href="<?= $post->images->standard_resolution->url ?>"><img src="<?= $post->images->thumbnail->url ?>"></a>
+							<a class="group" rel="group1" href="<?= $post->images->standard_resolution->url ?>"><img class="ig-img" src="<?= $post->images->thumbnail->url ?>"></a>
 						<?php endforeach ?>
 					</div>
 				</div>

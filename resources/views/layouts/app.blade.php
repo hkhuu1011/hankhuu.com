@@ -22,9 +22,9 @@
         <header class="nav-down">
             <ul id="top-menu">
                 <li id="home" class="active"><a href="#home">Home</a></li>
-                <li id="about"><a href="#about">About</a></li>
+                <li id="about"><a href="#about">Bio</a></li>
                 <li id="projects"><a href="#projects">Projects</a></li>
-                <li id="photos"><a href="#photos">Photos</a></li>
+                <li id="photos"><a href="#photos">Photography</a></li>
                 <li id="contact"><a href="#contact">Contact</a></li>
             </ul>
 
