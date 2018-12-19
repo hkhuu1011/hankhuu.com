@@ -126,7 +126,7 @@ header {
 #parallax .block {
   background: white;
   padding: 60px 0;
-  width: 820px;
+  /*width: 820px;*/
   margin: 0 auto;
   text-align: justify;
 }
@@ -338,35 +338,44 @@ header {
 /*Photos Section*/
 
 .svg-wrapper {
+  background: rgba(0,0,0,0.25);
   position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-  margin: 0 auto;
   width: 320px;
+  height: 320px;
+  top: 10%;
+  left: 50%;
+  margin-left: -160px;
+  margin-bottom: 20px;
 }
 
-.shape {
-  stroke-dasharray: 140 540;
-  stroke-dashoffset: -474;
-  stroke-width: 8px;
+svg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.outline {
+  width: 100%;
+  height: 100%;
+  stroke-dasharray: 1280;
+  stroke-dashoffset: 1280;
+  stroke-width: 3px;
   fill: transparent;
   stroke: #495057;
-  border-bottom: 5px solid black;
-  transition: stroke-width 1s, stroke-dashoffset 1s, stroke-dasharray 1s;
+  transition: stroke-dashoffset 1s, stroke-dasharray 1s;
 }
-.text {
-  font-family: 'Roboto Condensed';
-  font-size: 22px;
-  line-height: 32px;
-  letter-spacing: 8px;
-  color: grey;
-  top: -48px;
-  position: relative;
+
+@keyframes dash {
+  from {
+    stroke-dashoffset: 1000;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
 }
-.svg-wrapper:hover .shape {
-  stroke-width: 2px;
+
+.svg-wrapper:hover .outline {
   stroke-dashoffset: 0;
-  stroke-dasharray: 760;
 }
 
 /* Footer */

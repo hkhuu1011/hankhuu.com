@@ -65,17 +65,79 @@
 		<section>
 			<div class="block">
 				<!-- SVG wrapper -->
-				<div class="svg-wrapper">
-				  <svg height="320" width="320" xmlns="http://www.w3.org/2000/svg">
-				    <rect class="shape" height="320" width="320" />
+				<div class="container">
+				  <div class="row">
+				    <div class="col-12 col-md-6 col-lg-4">
+						<div class="svg-wrapper">
+						  <svg xmlns="http://www.w3.org/2000/svg">
+						    <rect class="outline"/>
+							</svg>
+						</div>
+				    </div>
+				    <div class="col-12 col-md-6 col-lg-4">
+					    <div class="svg-wrapper">
+						  <svg xmlns="http://www.w3.org/2000/svg">
+						    <rect class="outline"/>
+							</svg>
+						</div>
+				    </div>
+				    <div class="col-12 col-md-6 col-lg-4">
+				      	<div class="svg-wrapper">
+						  <svg xmlns="http://www.w3.org/2000/svg">
+						    <rect class="outline"/>
+							</svg>
+						</div>
+				    </div>
+				  </div>
 
-						<div class="text">Photos</div>
+				  <div class="row">
+				    <div class="col-12 col-md-6 col-lg-4">
+						<div class="svg-wrapper">
+						  <svg xmlns="http://www.w3.org/2000/svg">
+						    <rect class="outline"/>
+							</svg>
+						</div>
+				    </div>
+				    <div class="col-12 col-md-6 col-lg-4">
+					    <div class="svg-wrapper">
+						  <svg xmlns="http://www.w3.org/2000/svg">
+						    <rect class="outline"/>
+							</svg>
+						</div>
+				    </div>
+				    <div class="col-12 col-md-6 col-lg-4">
+				      	<div class="svg-wrapper">
+						  <svg xmlns="http://www.w3.org/2000/svg">
+						    <rect class="outline"/>
+							</svg>
+						</div>
+				    </div>
+				  </div>
 
-					</svg>
+				  <div class="row">
+				    <div class="col-12 col-md-6 col-lg-4">
+						<div class="svg-wrapper">
+						  <svg xmlns="http://www.w3.org/2000/svg">
+						    <rect class="outline"/>
+							</svg>
+						</div>
+				    </div>
+				    <div class="col-12 col-md-6 col-lg-4">
+					    <div class="svg-wrapper">
+						  <svg xmlns="http://www.w3.org/2000/svg">
+						    <rect class="outline"/>
+							</svg>
+						</div>
+				    </div>
+				    <div class="col-12 col-md-6 col-lg-4">
+				      	<div class="svg-wrapper">
+						  <svg xmlns="http://www.w3.org/2000/svg">
+						    <rect class="outline"/>
+							</svg>
+						</div>
+				    </div>
+				  </div>
 				</div>
-				<!-- <p>Photos</p> -->
-				<p class="line-break margin-top-10"></p>
-			<p class="margin-top-10"></p>
 			</div>
 		</section>
 
