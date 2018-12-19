@@ -34,12 +34,7 @@
         @yield('content')
 
         <footer>
-            <div class="social-logos">
-                <a href=""><img src="" /></a>
-                <a href=""><img src="" /></a>
-                <a href=""><img src="" /></a>
-                <a href=""><img src="" /></a>
-            </div>
+
         </footer>
 
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->

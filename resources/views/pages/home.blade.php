@@ -156,24 +156,6 @@
 			</div>
 		</section>
 
-		<!-- <section>
-			<div class="parallax-four contact">
-				<h2 class="section-title">Contact</h2>
-			</div>
-		</section> -->
-
-		<section class="contact hover-underline">
-			<div class="block">
-				<div class="container">
-					<div class="section-title sliding-u-l-r">Contact</div>
-				</div>
-				<div class="section-underline"></div>
-				<div class="container">
-					
-				</div>
-			</div>
-		</section>
-
 		<section class="instagram hover-underline">
 			<div class="block">
 				<div class="container">
@@ -210,7 +192,31 @@
 					</div>
 				</div>
 			</div>
+		</section>
 
+		<!-- <section>
+			<div class="parallax-four contact">
+				<h2 class="section-title">Contact</h2>
+			</div>
+		</section> -->
+
+		<section class="contact hover-underline">
+			<div class="block">
+				<div class="container">
+					<div class="section-title sliding-u-l-r">Contact</div>
+				</div>
+				<div class="section-underline"></div>
+				<div class="container">
+					<div class="content">
+						<ul class="list">
+			                <li><a href=""><img class="social-logos" src="/img/gmail.svg" /></a></li>
+			                <li><a href=""><img class="social-logos" src="/img/linkedin.svg" /></a></li>
+			                <li><a href=""><img class="social-logos" src="img/github.svg" /></a></li>
+			                <li><a href=""><img class="social-logos" src="/img/instagram.svg" /></a></li>
+		            	</ul>
+					</div>
+				</div>
+			</div>
 		</section>
 </div>
 
