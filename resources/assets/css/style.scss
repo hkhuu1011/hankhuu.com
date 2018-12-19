@@ -366,8 +366,15 @@ header {
 
 /*Photos Section*/
 
+.photo-preview {
+    width: 320px;
+    height: 320px;
+    padding: 15px;
+    display: block;
+}
+
 .svg-wrapper {
-  background: rgba(0,0,0,0.25);
+/*  background: rgba(0,0,0,0.25);*/
   position: relative;
   width: 320px;
   height: 320px;

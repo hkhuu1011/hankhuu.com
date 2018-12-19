@@ -86,13 +86,15 @@
 						<div class="svg-wrapper">
 						  <svg xmlns="http://www.w3.org/2000/svg">
 						    <rect class="outline"/>
-							</svg>
+						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
+						  </svg>
 						</div>
 				    </div>
 				    <div class="col-12 col-md-6 col-lg-4">
 					    <div class="svg-wrapper">
 						  <svg xmlns="http://www.w3.org/2000/svg">
 						    <rect class="outline"/>
+						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
 							</svg>
 						</div>
 				    </div>
@@ -100,6 +102,7 @@
 				      	<div class="svg-wrapper">
 						  <svg xmlns="http://www.w3.org/2000/svg">
 						    <rect class="outline"/>
+						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
 							</svg>
 						</div>
 				    </div>
@@ -110,6 +113,7 @@
 						<div class="svg-wrapper">
 						  <svg xmlns="http://www.w3.org/2000/svg">
 						    <rect class="outline"/>
+						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
 							</svg>
 						</div>
 				    </div>
@@ -117,6 +121,7 @@
 					    <div class="svg-wrapper">
 						  <svg xmlns="http://www.w3.org/2000/svg">
 						    <rect class="outline"/>
+						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
 							</svg>
 						</div>
 				    </div>
@@ -124,6 +129,7 @@
 				      	<div class="svg-wrapper">
 						  <svg xmlns="http://www.w3.org/2000/svg">
 						    <rect class="outline"/>
+						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
 							</svg>
 						</div>
 				    </div>
@@ -134,6 +140,7 @@
 						<div class="svg-wrapper">
 						  <svg xmlns="http://www.w3.org/2000/svg">
 						    <rect class="outline"/>
+						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
 							</svg>
 						</div>
 				    </div>
@@ -141,6 +148,7 @@
 					    <div class="svg-wrapper">
 						  <svg xmlns="http://www.w3.org/2000/svg">
 						    <rect class="outline"/>
+						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
 							</svg>
 						</div>
 				    </div>
@@ -148,6 +156,7 @@
 				      	<div class="svg-wrapper">
 						  <svg xmlns="http://www.w3.org/2000/svg">
 						    <rect class="outline"/>
+						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
 							</svg>
 						</div>
 				    </div>
