@@ -18,10 +18,10 @@
 		    </div>
 		</section>
 
-		<section>
+		<section class="hover-underline">
 			<div class="block about">
 				<div class="container">
-					<div class="section-title">Bio</div>
+					<div class="section-title sliding-u-l-r">Bio</div>
 						<ul class="about-content">
 							<li>
 								<p>Born in Vietnam, raised in Seattle and currently living somewhere in-between in Orlando.</p>
@@ -44,27 +44,27 @@
 			</div>
 		</section>
 
-		<section>
+		<!-- <section>
 				<div class="parallax-two projects">
 					<h2 class="section-title">Projects</h2>
 				</div>
-		</section>
+		</section> -->
 
-		<section>
+		<section class="hover-underline">
 			<div class="block">
 				<div class="container">
-					<p>Projects</p>
-					<p class="line-break margin-top-10"></p>
-					<p class="margin-top-10"></p>
+					<div class="section-title sliding-u-l-r">Projects</div>
+					<!-- <p class="line-break margin-top-10"></p>
+					<p class="margin-top-10"></p> -->
 				</div>
 			</div>
 		</section>
 
-		<section>
+		<!-- <section>
 			<div class="parallax-three photos">
 				<h2 class="section-title">Photos</h2>
 			</div>
-		</section>
+		</section> -->
 
 		<section>
 			<div class="block">
@@ -145,16 +145,19 @@
 			</div>
 		</section>
 
-		<section>
+		<!-- <section>
 			<div class="parallax-four contact">
 				<h2 class="section-title">Contact</h2>
 			</div>
-		</section>
+		</section> -->
 
 		<section>
 			<div class="block">
 				<div class="container">
 					<p>Contact</p>
+
+
+					<p>Personal</p>
 					<?php
 						// Supply a user id and an access token
 						$userid = "30758156";
@@ -180,9 +183,6 @@
 						<!-- Renders images. @Options (thumbnail,low_resoulution, high_resolution) -->
 						<a class="group" rel="group1" href="<?= $post->images->standard_resolution->url ?>"><img src="<?= $post->images->thumbnail->url ?>"></a>
 					<?php endforeach ?>
-
-					<!-- <p class="line-break margin-top-10"></p> -->
-					<p class="margin-top-10"></p>
 				</div>
 			</div>
 		</section>

@@ -312,12 +312,33 @@ header {
   animation-name: fadeInUp;
 }
 
+/*Section Title Left to Right*/
+.sliding-u-l-r {
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+}
+.sliding-u-l-r:after {
+  content: '';
+  position: absolute;
+  /*margin-bottom: -10px;*/
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  border-bottom: 1.5px solid #495057;
+  transition: 0.4s;
+}
+.hover-underline:hover .sliding-u-l-r:after {
+  width: 100%;
+}
+
 /*About Me Section*/
 
 .section-title {
   color: #ccc;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   font-weight: 600;
+  width: 30%;
 }
 
 .about-content {
@@ -326,10 +347,11 @@ header {
   color: #495057;
   line-height: 1;
   font-size: 16px;
+  padding-top: 30px;
 }
 
 .custom-text {
-  font-size: 65px;
+  font-size: 40px;
   font-weight: 700;
   color: #dadada;
   font-family: 'Raleway', sans-serif;
