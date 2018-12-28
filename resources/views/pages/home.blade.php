@@ -58,7 +58,7 @@
 						  	<a href="/photo1">
 							  	<svg xmlns="http://www.w3.org/2000/svg">
 							    	<rect class="outline"/>
-							    		<img class="photo-preview" src="/img/photography/DSC_5941_FinalCopy.jpg"/>
+							    		<img class="photo-preview" src="/img/photos.jpg"/>
 							  	</svg>
 							</a>
 						</div>
@@ -68,7 +68,7 @@
 					    	<a href="#">
 						  		<svg xmlns="http://www.w3.org/2000/svg">
 						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photos.jpg"/>
+						    	<img class="photo-preview" src="/img/photography/DSC_7535_Final.jpg"/>
 								</svg>
 							</a>
 						</div>
@@ -78,7 +78,7 @@
 				      		<a href="#">
 						  		<svg xmlns="http://www.w3.org/2000/svg">
 						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photos.jpg"/>
+						    	<img class="photo-preview" src="/img/photography/NewYork.jpg"/>
 								</svg>
 							</a>
 						</div>
@@ -90,7 +90,7 @@
 				      		<a href="#">
 						  		<svg xmlns="http://www.w3.org/2000/svg">
 						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photos.jpg"/>
+						    	<img class="photo-preview" src="/img/photography/DSC_5364_FinalCopy.jpg"/>
 								</svg>
 							</a>
 						</div>
@@ -100,7 +100,7 @@
 				      		<a href="#">
 						  		<svg xmlns="http://www.w3.org/2000/svg">
 						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photos.jpg"/>
+						    	<img class="photo-preview" src="/img/photography/Jamaica.jpg"/>
 								</svg>
 							</a>
 						</div>
@@ -110,7 +110,7 @@
 				      		<a href="#">
 						  		<svg xmlns="http://www.w3.org/2000/svg">
 						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photos.jpg"/>
+						    	<img class="photo-preview" src="/img/photography/DSC_6107_FinalCopy.jpg"/>
 								</svg>
 							</a>
 						</div>
@@ -123,7 +123,7 @@
 				      		<a href="#">
 						  		<svg xmlns="http://www.w3.org/2000/svg">
 						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photos.jpg"/>
+						    	<img class="photo-preview" src="/img/photography/DSC_5941_FinalCopy.jpg"/>
 								</svg>
 							</a>
 						</div>
@@ -133,7 +133,7 @@
 				      		<a href="#">
 						  		<svg xmlns="http://www.w3.org/2000/svg">
 						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photos.jpg"/>
+						    	<img class="photo-preview" src="/img/photography/IMG_1831_FinalCopy_2.jpg"/>
 								</svg>
 							</a>
 						</div>
@@ -143,7 +143,7 @@
 				      		<a href="#">
 						  		<svg xmlns="http://www.w3.org/2000/svg">
 						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photos.jpg"/>
+						    	<img class="photo-preview" src="/img/photography/DSC_1679_FinalCopy.jpg"/>
 								</svg>
 							</a>
 						</div>
