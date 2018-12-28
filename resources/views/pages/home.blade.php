@@ -55,10 +55,10 @@
 				  <div class="row">
 				    <div class="col-12 col-md-6 col-lg-4">
 						<div class="svg-wrapper">
-						  <svg xmlns="http://www.w3.org/2000/svg">
+						  <a href="/photo1"><svg xmlns="http://www.w3.org/2000/svg">
 						    <rect class="outline"/>
-						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
-						  </svg>
+						    <img class="photo-preview" src="/img/photos.jpg"/>
+						  </svg></a>
 						</div>
 				    </div>
 				    <div class="col-12 col-md-6 col-lg-4">
