@@ -55,26 +55,64 @@
 				  <div class="row">
 				    <div class="col-12 col-md-6 col-lg-4">
 						<div class="svg-wrapper">
-						  <a href="/photo1"><svg xmlns="http://www.w3.org/2000/svg">
-						    <rect class="outline"/>
-						    <img class="photo-preview" src="/img/photos.jpg"/>
-						  </svg></a>
+						  	<a href="/photo1">
+							  	<svg xmlns="http://www.w3.org/2000/svg">
+							    	<rect class="outline"/>
+							    		<img class="photo-preview" src="/img/photos.jpg"/>
+							  	</svg>
+							</a>
 						</div>
 				    </div>
 				    <div class="col-12 col-md-6 col-lg-4">
 					    <div class="svg-wrapper">
-						  <svg xmlns="http://www.w3.org/2000/svg">
-						    <rect class="outline"/>
-						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
-							</svg>
+					    	<a href="#">
+						  		<svg xmlns="http://www.w3.org/2000/svg">
+						    	<rect class="outline"/>
+						    	<img class="photo-preview" src="/img/photos.jpg"/>
+								</svg>
+							</a>
 						</div>
 				    </div>
 				    <div class="col-12 col-md-6 col-lg-4">
 				      	<div class="svg-wrapper">
-						  <svg xmlns="http://www.w3.org/2000/svg">
-						    <rect class="outline"/>
-						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
-							</svg>
+				      		<a href="#">
+						  		<svg xmlns="http://www.w3.org/2000/svg">
+						    	<rect class="outline"/>
+						    	<img class="photo-preview" src="/img/photos.jpg"/>
+								</svg>
+							</a>
+						</div>
+				    </div>
+				  </div>
+				  <div class="row">
+				    <div class="col-12 col-md-6 col-lg-4">
+						<div class="svg-wrapper">
+				      		<a href="#">
+						  		<svg xmlns="http://www.w3.org/2000/svg">
+						    	<rect class="outline"/>
+						    	<img class="photo-preview" src="/img/photos.jpg"/>
+								</svg>
+							</a>
+						</div>
+				    </div>
+				    <div class="col-12 col-md-6 col-lg-4">
+					    <div class="svg-wrapper">
+				      		<a href="#">
+						  		<svg xmlns="http://www.w3.org/2000/svg">
+						    	<rect class="outline"/>
+						    	<img class="photo-preview" src="/img/photos.jpg"/>
+								</svg>
+							</a>
+						</div>
+				    </div>
+				    <div class="col-12 col-md-6 col-lg-4">
+				      	<div class="svg-wrapper">
+				      		<a href="#">
+						  		<svg xmlns="http://www.w3.org/2000/svg">
+						    	<rect class="outline"/>
+						    	<img class="photo-preview" src="/img/photos.jpg"/>
+								</svg>
+							</a>
 						</div>
 				    </div>
 				  </div>
@@ -82,53 +120,32 @@
 				  <div class="row">
 				    <div class="col-12 col-md-6 col-lg-4">
 						<div class="svg-wrapper">
-						  <svg xmlns="http://www.w3.org/2000/svg">
-						    <rect class="outline"/>
-						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
-							</svg>
+				      		<a href="#">
+						  		<svg xmlns="http://www.w3.org/2000/svg">
+						    	<rect class="outline"/>
+						    	<img class="photo-preview" src="/img/photos.jpg"/>
+								</svg>
+							</a>
 						</div>
 				    </div>
 				    <div class="col-12 col-md-6 col-lg-4">
 					    <div class="svg-wrapper">
-						  <svg xmlns="http://www.w3.org/2000/svg">
-						    <rect class="outline"/>
-						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
-							</svg>
+				      		<a href="#">
+						  		<svg xmlns="http://www.w3.org/2000/svg">
+						    	<rect class="outline"/>
+						    	<img class="photo-preview" src="/img/photos.jpg"/>
+								</svg>
+							</a>
 						</div>
 				    </div>
 				    <div class="col-12 col-md-6 col-lg-4">
 				      	<div class="svg-wrapper">
-						  <svg xmlns="http://www.w3.org/2000/svg">
-						    <rect class="outline"/>
-						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
-							</svg>
-						</div>
-				    </div>
-				  </div>
-
-				  <div class="row">
-				    <div class="col-12 col-md-6 col-lg-4">
-						<div class="svg-wrapper">
-						  <svg xmlns="http://www.w3.org/2000/svg">
-						    <rect class="outline"/>
-						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
-							</svg>
-						</div>
-				    </div>
-				    <div class="col-12 col-md-6 col-lg-4">
-					    <div class="svg-wrapper">
-						  <svg xmlns="http://www.w3.org/2000/svg">
-						    <rect class="outline"/>
-						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
-							</svg>
-						</div>
-				    </div>
-				    <div class="col-12 col-md-6 col-lg-4">
-				      	<div class="svg-wrapper">
-						  <svg xmlns="http://www.w3.org/2000/svg">
-						    <rect class="outline"/>
-						    <a href="#"><img class="photo-preview" src="/img/photos.jpg"/></a>
-							</svg>
+				      		<a href="#">
+						  		<svg xmlns="http://www.w3.org/2000/svg">
+						    	<rect class="outline"/>
+						    	<img class="photo-preview" src="/img/photos.jpg"/>
+								</svg>
+							</a>
 						</div>
 				    </div>
 				  </div>
