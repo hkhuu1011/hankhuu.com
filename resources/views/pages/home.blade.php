@@ -55,7 +55,7 @@
 				  <div class="row">
 				    <div class="col-12 col-md-6 col-lg-4">
 						<div class="svg-wrapper">
-						  	<a href="/photo1">
+						  	<a href="#">
 							  	<svg xmlns="http://www.w3.org/2000/svg">
 							    	<rect class="outline"/>
 							    		<img class="photo-preview" src="/img/photos.jpg"/>
@@ -116,40 +116,10 @@
 						</div>
 				    </div>
 				  </div>
-
-				  <div class="row">
-				    <div class="col-12 col-md-6 col-lg-4">
-						<div class="svg-wrapper">
-				      		<a href="#">
-						  		<svg xmlns="http://www.w3.org/2000/svg">
-						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photography/DSC_5941_FinalCopy.jpg"/>
-								</svg>
-							</a>
-						</div>
-				    </div>
-				    <div class="col-12 col-md-6 col-lg-4">
-					    <div class="svg-wrapper">
-				      		<a href="#">
-						  		<svg xmlns="http://www.w3.org/2000/svg">
-						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photography/IMG_1831_FinalCopy_2.jpg"/>
-								</svg>
-							</a>
-						</div>
-				    </div>
-				    <div class="col-12 col-md-6 col-lg-4">
-				      	<div class="svg-wrapper">
-				      		<a href="#">
-						  		<svg xmlns="http://www.w3.org/2000/svg">
-						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photography/DSC_1679_FinalCopy.jpg"/>
-								</svg>
-							</a>
-						</div>
-				    </div>
-				  </div>
 				</div>
+			</div>
+			<div class="container">
+				<div class="right"><a href="/photos">More photos</a></div>
 			</div>
 		</section>
 

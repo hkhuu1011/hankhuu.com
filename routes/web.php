@@ -12,4 +12,4 @@
 */
 
 Route::get('/', 'PagesController@home');
-Route::get('/photo1', 'PagesController@photo');
+Route::get('/photos', 'PagesController@photo');
