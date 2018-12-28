@@ -58,7 +58,7 @@
 						  	<a href="/photo1">
 							  	<svg xmlns="http://www.w3.org/2000/svg">
 							    	<rect class="outline"/>
-							    		<img class="photo-preview" src="/img/photos.jpg"/>
+							    		<img class="photo-preview" src="/img/photography/DSC_5941_FinalCopy.jpg"/>
 							  	</svg>
 							</a>
 						</div>
