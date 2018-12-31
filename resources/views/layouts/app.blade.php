@@ -11,7 +11,7 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway:Raleway:100,300,400,600,700,800,900" rel="stylesheet" type="text/css">
 
         <!-- CSS -->
-        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <link rel="stylesheet" href="/css/style.css" type="text/css">
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
@@ -21,11 +21,11 @@
     <body>
         <header class="nav-down">
             <ul id="top-menu">
-                <li id="home" class="active"><a href="#home">Home</a></li>
-                <li id="projects"><a href="#projects">Projects</a></li>
-                <li id="photos"><a href="#photos">Photography</a></li>
-                <li id="about"><a href="#about">Bio</a></li>
-                <li id="contact"><a href="#contact">Contact</a></li>
+                <li id="home" class="active"><a href="/#home">Home</a></li>
+                <li id="projects"><a href="/#projects">Projects</a></li>
+                <li id="photos"><a href="/#photos">Photography</a></li>
+                <li id="about"><a href="/#about">Bio</a></li>
+                <li id="contact"><a href="/#contact">Contact</a></li>
             </ul>
 
             <div class="avatar">HK</div>

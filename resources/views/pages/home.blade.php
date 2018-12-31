@@ -58,7 +58,7 @@
 						  	<a href="#">
 							  	<svg xmlns="http://www.w3.org/2000/svg">
 							    	<rect class="outline"/>
-							    		<img class="photo-preview" src="/img/photos.jpg"/>
+							    		<img class="photo-preview" src="/img/photography/DSC_6107_FinalCopy.jpg"/>
 							  	</svg>
 							</a>
 						</div>
@@ -68,49 +68,17 @@
 					    	<a href="#">
 						  		<svg xmlns="http://www.w3.org/2000/svg">
 						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photography/DSC_7535_Final.jpg"/>
-								</svg>
-							</a>
-						</div>
-				    </div>
-				    <div class="col-12 col-md-6 col-lg-4">
-				      	<div class="svg-wrapper">
-				      		<a href="#">
-						  		<svg xmlns="http://www.w3.org/2000/svg">
-						    	<rect class="outline"/>
 						    	<img class="photo-preview" src="/img/photography/NewYork.jpg"/>
 								</svg>
 							</a>
 						</div>
 				    </div>
-				  </div>
-				  <div class="row">
-				    <div class="col-12 col-md-6 col-lg-4">
-						<div class="svg-wrapper">
-				      		<a href="#">
-						  		<svg xmlns="http://www.w3.org/2000/svg">
-						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photography/DSC_5364_FinalCopy.jpg"/>
-								</svg>
-							</a>
-						</div>
-				    </div>
-				    <div class="col-12 col-md-6 col-lg-4">
-					    <div class="svg-wrapper">
-				      		<a href="#">
-						  		<svg xmlns="http://www.w3.org/2000/svg">
-						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photography/Jamaica.jpg"/>
-								</svg>
-							</a>
-						</div>
-				    </div>
 				    <div class="col-12 col-md-6 col-lg-4">
 				      	<div class="svg-wrapper">
 				      		<a href="#">
 						  		<svg xmlns="http://www.w3.org/2000/svg">
 						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photography/DSC_6107_FinalCopy.jpg"/>
+						    	<img class="photo-preview" src="/img/photography/DSC_7535_Final.jpg"/>
 								</svg>
 							</a>
 						</div>
@@ -119,7 +87,8 @@
 				</div>
 			</div>
 			<div class="container">
-				<div class="right"><a href="/photos">More photos</a></div>
+				<!-- <div class="right"><a href="/photos/more">More photos</a></div> -->
+				<small class="right" style="color:#ccc">(More coming soon)</small>
 			</div>
 		</section>
 
