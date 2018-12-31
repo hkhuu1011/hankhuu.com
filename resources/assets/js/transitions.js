@@ -8,4 +8,5 @@ $('a').each(function(){
 
 // lightGallery
 $("#lightgallery").lightGallery();
-
+$("#lightgallery2").lightGallery();
+$("#lightgallery3").lightGallery();

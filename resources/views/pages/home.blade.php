@@ -44,63 +44,58 @@
 			</div>
 		</section> -->
 
-<div class="container">
-  <div class="row">
-    <div class="col-12 col-md-6 col-lg-4">
-		<div class="svg-wrapper">
-			<svg xmlns="http://www.w3.org/2000/svg">
-		    	<rect class="outline"/>
-					<div id="lightgallery">
-						<a href="/img/photography/DSC_6107_FinalCopy.jpg">
-							<img class="photo-preview" src="/img/photography/DSC_6107_FinalCopy.jpg" />
-		 				</a>
-		 				<a href="/img/photography/NewYork.jpg">
-							<img style="display: none;" class="photo-preview" src="/img/photography/NewYork.jpg" />
-		 				</a>
-					</div>
-			</svg>
-		</div>
-	</didv>
-  </div>
-</div>
-
 		<section class="photos hover-underline">
-			<div class="block" id="lightgallery">
+			<div class="block">
 				<div class="container">
 					<div class="section-title sliding-u-l-r">Photography</div>
 				</div>
 				<div class="section-underline"></div>
 				<!-- SVG wrapper -->
 				<div class="container">
-				  <div class="row" id="lightgallery">
+				  <div class="row">
 				    <div class="col-12 col-md-6 col-lg-4">
 						<div class="svg-wrapper">
-						  	<a href="/img/photography/DSC_6107_FinalCopy.jpg">
-							  	<svg xmlns="http://www.w3.org/2000/svg">
-							    	<rect class="outline"/>
-							    		<img class="photo-preview" src="/img/photography/DSC_6107_FinalCopy.jpg"/>
-							  	</svg>
-							</a>
+							<svg xmlns="http://www.w3.org/2000/svg">
+						    	<rect class="outline"/>
+									<div id="lightgallery">
+										<a href="/img/photography/DSC_6107_FinalCopy.jpg">
+											<img class="photo-preview" src="/img/photography/DSC_6107_FinalCopy.jpg" />
+						 				</a>
+						 				<a href="/img/photography/DSC_6107_FinalCopy.jpg">
+											<img style="display: none;" class="photo-preview" src="/img/photography/DSC_6107_FinalCopy.jpg" />
+						 				</a>
+									</div>
+							</svg>
+						</div>
+				    </div>
+					<div class="col-12 col-md-6 col-lg-4">
+						<div class="svg-wrapper">
+							<svg xmlns="http://www.w3.org/2000/svg">
+						    	<rect class="outline"/>
+									<div id="lightgallery2">
+										<a href="/img/photography/NewYork.jpg">
+											<img class="photo-preview" src="/img/photography/NewYork.jpg" />
+						 				</a>
+						 				<a href="/img/photography/NewYork.jpg">
+											<img style="display: none;" class="photo-preview" src="/img/photography/NewYork.jpg" />
+						 				</a>
+									</div>
+							</svg>
 						</div>
 				    </div>
 				    <div class="col-12 col-md-6 col-lg-4">
-					    <div class="svg-wrapper">
-					    	<a href="#">
-						  		<svg xmlns="http://www.w3.org/2000/svg">
+						<div class="svg-wrapper">
+							<svg xmlns="http://www.w3.org/2000/svg">
 						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photography/NewYork.jpg"/>
-								</svg>
-							</a>
-						</div>
-				    </div>
-				    <div class="col-12 col-md-6 col-lg-4">
-				      	<div class="svg-wrapper">
-				      		<a href="#">
-						  		<svg xmlns="http://www.w3.org/2000/svg">
-						    	<rect class="outline"/>
-						    	<img class="photo-preview" src="/img/photography/DSC_7535_Final.jpg"/>
-								</svg>
-							</a>
+									<div id="lightgallery3">
+										<a href="/img/photography/DSC_7535_Final.jpg">
+											<img class="photo-preview" src="/img/photography/DSC_7535_Final.jpg" />
+						 				</a>
+						 				<a href="/img/photography/DSC_7535_Final.jpg">
+											<img style="display: none;" class="photo-preview" src="/img/photography/DSC_7535_Final.jpg" />
+						 				</a>
+									</div>
+							</svg>
 						</div>
 				    </div>
 				  </div>
