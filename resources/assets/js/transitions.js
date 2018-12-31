@@ -7,6 +7,4 @@ $('a').each(function(){
 });
 
 // lightGallery
-$("#lightgallery").lightGallery();
-$("#lightgallery2").lightGallery();
-$("#lightgallery3").lightGallery();
+$("#lightgallery, #lightgallery2, #lightgallery3").lightGallery();

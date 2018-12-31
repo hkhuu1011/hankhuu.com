@@ -375,6 +375,11 @@ header {
 
 /*Photos Section*/
 
+img.lg-object.lg-image {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
 .photo-preview {
   width: 320px;
   height: 320px;
