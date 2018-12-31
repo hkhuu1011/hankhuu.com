@@ -44,7 +44,7 @@
 			</div>
 		</section> -->
 
-		<section class="photos hover-underline">
+		<section class="photography hover-underline">
 			<div class="block">
 				<div class="container">
 					<div class="section-title sliding-u-l-r">Photography</div>

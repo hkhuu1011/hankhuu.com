@@ -126,9 +126,9 @@ $(function () {
         $('html,body').animate({
             scrollTop: $(".projects").offset().top }, 'slow');
     });
-    $("#photos").click(function () {
+    $("#photography").click(function () {
         $('html,body').animate({
-            scrollTop: $(".photos").offset().top }, 'slow');
+            scrollTop: $(".photography").offset().top }, 'slow');
     });
     $("#contact").click(function () {
         $('html,body').animate({

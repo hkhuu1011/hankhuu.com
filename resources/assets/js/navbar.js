@@ -60,9 +60,9 @@ $(function() {
             scrollTop: $(".projects").offset().top},
             'slow');
     });
-    $("#photos").click(function() {
+    $("#photography").click(function() {
         $('html,body').animate({
-            scrollTop: $(".photos").offset().top},
+            scrollTop: $(".photography").offset().top},
             'slow');
     });
     $("#contact").click(function() {
