@@ -149,6 +149,9 @@ $('a').each(function () {
   $(this).html('<span class="icon">' + $(this).html() + '</span><span class="circle"><span><em></em></span><span><em></em></span></span>');
 });
 
+// lightGallery
+$("#lightgallery").lightGallery();
+
 /***/ }),
 
 /***/ 1:

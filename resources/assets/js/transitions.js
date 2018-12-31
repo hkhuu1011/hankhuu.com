@@ -5,3 +5,7 @@ $('fade-up').delay(1300).animate({'marginTop':'+=-80px','opacity':'1'},800);
 $('a').each(function(){
   $(this).html('<span class="icon">'+ $(this).html() +'</span><span class="circle"><span><em></em></span><span><em></em></span></span>');
 });
+
+// lightGallery
+$("#lightgallery").lightGallery();
+
