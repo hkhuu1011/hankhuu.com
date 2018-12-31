@@ -107,7 +107,7 @@
 			</div>
 		</section>
 
-		@include('partials.ig_feed')
+		<!-- @ INCLUDE PARTIALS.IG_FEED WHEN READY -->
 
 		<!-- Bio -->
 		<section class="hover-underline">
