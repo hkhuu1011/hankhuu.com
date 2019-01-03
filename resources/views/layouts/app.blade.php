@@ -20,7 +20,7 @@
     </head>
 
     <body>
-        <header class="nav-down">
+        <header class="nav-down d-none d-md-block">
             <ul id="top-menu">
                 <li id="home" class="active"><a href="/#home">Home</a></li>
                 <li id="projects"><a href="/#projects">Projects</a></li>
