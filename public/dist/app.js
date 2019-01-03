@@ -136,6 +136,13 @@ $(function () {
     });
 });
 
+// Mobile navbar
+// show/hide the mobile menu based on class added to container
+$('.menu-icon').click(function () {
+    $(this).parent().toggleClass('is-tapped');
+    $('#hamburger').toggleClass('open');
+});
+
 /***/ }),
 
 /***/ "./resources/assets/js/transitions.js":
