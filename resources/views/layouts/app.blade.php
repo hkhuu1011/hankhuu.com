@@ -20,7 +20,7 @@
     </head>
 
     <body>
-        <header class="nav-down d-none d-md-block">
+        <header class="nav-down d-none d-md-block d-lg-block d-xl-block">
             <ul id="top-menu">
                 <li id="home" class="active"><a href="/#home">Home</a></li>
                 <li id="projects"><a href="/#projects">Projects</a></li>
@@ -30,6 +30,28 @@
             </ul>
 
             <div class="avatar">HK</div>
+        </header>
+
+        <header class="nav-mobile d-md-none">
+            <nav class="navbar">
+                <div class="sitenavigation">
+                    <span class="menu-icon">
+                        <a href="#" class="menu example5"><span></span></a>
+                            <div id="hamburger">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                    </span>
+              <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Projects</a></li>
+                <li><a href="#">Photography</a></li>
+                <li><a href="#">Bio</a></li>
+                <li><a href="#">Contact</a></li>
+              </ul>
+            </div>
+          </nav>
         </header>
 
         @yield('content')
