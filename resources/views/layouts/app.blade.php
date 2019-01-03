@@ -20,37 +20,62 @@
     </head>
 
     <body>
-        <header class="nav-down d-none d-md-block d-lg-block d-xl-block">
-            <ul id="top-menu">
+        <!-- <header>
+            <div class="header-nav nav-down d-none d-md-block d-lg-block d-xl-block">
+                <ul id="top-menu">
+                    <li id="home" class="active"><a href="/#home">Home</a></li>
+                    <li id="projects"><a href="/#projects">Projects</a></li>
+                    <li id="photography"><a href="/#photography">Photography</a></li>
+                    <li id="about"><a href="/#about">Bio</a></li>
+                    <li id="contact"><a href="/#contact">Contact</a></li>
+                </ul>
+
+                <div class="avatar">HK</div>
+            </div>
+
+            <div class="header-nav nav-down nav-mobile d-md-none">
+                <nav class="navbar">
+                    <div class="sitenavigation">
+                        <span class="menu-icon">
+                            <a href="#" class="menu example5"><span></span></a>
+                                <div id="hamburger">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                        </span>
+                      <ul>
+                        <li id="home" class="active"><a href="/#home">Home</a></li>
+                        <li id="projects"><a href="/#projects">Projects</a></li>
+                        <li id="photography"><a href="/#photography">Photography</a></li>
+                        <li id="about"><a href="/#about">Bio</a></li>
+                        <li id="contact"><a href="/#contact">Contact</a></li>
+                      </ul>
+                    </div>
+              </nav>
+            </div>
+        </header> -->
+
+        <header>
+          <nav class="navbar">
+            <div class="sitenavigation">
+              <span class="menu-icon">
+                <a href="#" class="menu example5"><span></span></a>
+                  <div id="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+              </span>
+              <ul>
                 <li id="home" class="active"><a href="/#home">Home</a></li>
                 <li id="projects"><a href="/#projects">Projects</a></li>
                 <li id="photography"><a href="/#photography">Photography</a></li>
                 <li id="about"><a href="/#about">Bio</a></li>
                 <li id="contact"><a href="/#contact">Contact</a></li>
-            </ul>
-
-            <div class="avatar">HK</div>
-        </header>
-
-        <header class="nav-mobile d-md-none">
-            <nav class="navbar">
-                <div class="sitenavigation">
-                    <span class="menu-icon">
-                        <a href="#" class="menu example5"><span></span></a>
-                            <div id="hamburger">
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                            </div>
-                    </span>
-              <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Projects</a></li>
-                <li><a href="#">Photography</a></li>
-                <li><a href="#">Bio</a></li>
-                <li><a href="#">Contact</a></li>
               </ul>
             </div>
+            <div class="logo">HK</div>
           </nav>
         </header>
 

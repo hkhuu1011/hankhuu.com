@@ -64,7 +64,7 @@ ul {
 
 /* Navbar */
 
-header {
+/*header {
   background: #ffffffeb;
   height: 70px;
   position: fixed;
@@ -73,35 +73,33 @@ header {
   transition: top 0.2s ease-in-out;
   width: 100%;
   z-index: 5;
-}
+}*/
 
 .nav-up {
   top: -70px;
 }
 
-.avatar {
-  margin-top: 20px;
+.logo {
   margin-right: 20px;
   font-family: 'Raleway', sans-serif;
   color: #cccccc;
   float: right;
 }
 
-#top-menu {
+/*#top-menu {
   position: absolute;
   left: 0;
   list-style: none;
-  /*padding-left: 20px;*/
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
-}
+}*/
 
-#top-menu li {
+/*#top-menu li {
   float: left;
   margin: 20px 14px 0px 14px;
-}
+}*/
 
-#top-menu a {
+/*#top-menu a {
   color: #cccccc;
   text-decoration: none;
   display: block;
@@ -110,42 +108,40 @@ header {
   transition: .5s all ease-out;
   padding: 4px 6px 2px 6px;
   border-radius: 6px;
-}
+}*/
 
-#top-menu li.active a {
+/*#top-menu li.active a {
   color: #fff;
   background-color: #cccccc;
   padding: 4px 6px 2px 6px;
   border-radius: 6px;
-}
+}*/
 
-#top-menu a:hover {
+/*#top-menu a:hover {
   color: #fff;
   background-color: #cccccc;
   padding: 4px 6px 2px 6px;
   border-radius: 6px;
-}
+}*/
 
 /*Mobile Navbar*/
 
 @media (min-width: 992px) {
   header {
-    margin-left: auto;
-    margin-right: auto;
+    background: #ffffffeb;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    -webkit-transition: top 0.2s ease-in-out;
+    transition: top 0.2s ease-in-out;
+    width: 100%;
+    z-index: 2;
   }
 
   .navbar {
     width: 100%;
-    background-color: #f9f9f9;
-    border: thin solid #ededed;
-    height: 44px;
-  }
-
-  .navbar .logo {
-    padding: 11px;
-    font-size: 0.9375em;
-    font-weight: 800;
-    float: left;
+    background-color: #ffffffeb;
+    height: 70px;
   }
 }
 
@@ -204,33 +200,39 @@ header {
   transform: rotate(-135deg);
 }
 
+.sitenavigation li.active a {
+  color: #fff;
+  background-color: #cccccc;
+  padding: 4px 6px 2px 6px;
+  border-radius: 6px;
+}
+
 .sitenavigation ul {
   margin: 0;
   padding: 0;
-  float: right;
+  float: left;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
 }
 
 .sitenavigation li {
   list-style-type: none;
-  padding: 0;
-  margin: 0;
+  /*padding: 0;*/
+  /*margin: 0;*/
   display: inline-block;
-  margin-left: -4px;
-  line-height: 20px;
-}
-
-.sitenavigation li.nav-dropdown:hover > a {
-  background-color: #CCC !important;
-  color: #000;
+  /*margin-left: -4px;*/
+  /*line-height: 20px;*/
+  margin: 20px 14px 0px 14px;
 }
 
 .sitenavigation li a {
-  color: #758283;
+  color: #cccccc;
   text-decoration: none;
   display: block;
-  padding: 11px 14px;
-  font-size: 0.9375em;
-  -webkit-tap-highlight-color: transparent;
+  -webkit-transition: .5s all ease-out;
+  transition: .5s all ease-out;
+  padding: 4px 6px 2px 6px;
+  border-radius: 6px;
 }
 
 .sitenavigation li a.nav-path-selected,
@@ -245,8 +247,10 @@ header {
 }
 
 .sitenavigation li a:hover {
-  background-color: #CCC !important;
-  color: #000;
+  color: #fff;
+  background-color: #cccccc;
+  padding: 4px 6px 2px 6px;
+  border-radius: 6px;
 }
 
 .sitenavigation li.clicked > ul {
@@ -282,11 +286,6 @@ header {
   background-color: lightgray;
 }
 
-.sitenavigation .nav-dropdown:hover > a,
-.sitenavigation .nav-dropdown.clicked > a {
-  background-color: #ECECEC;
-}
-
 .no-js .sitenavigation li:hover > ul {
   display: block !important;
 }
@@ -295,25 +294,20 @@ header {
   display: none;
 }
 
+/*Tablet Down*/
+
 @media (max-width: 991px) {
   .navbar {
     width: 100%;
-    background-color: #f9f9f9;
-    border: thin solid #ededed;
-    height: 44px;
+    background-color: #ffffffeb;
+    /*border: thin solid #ededed;*/
+    height: 70px;
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     max-width: 100%;
     z-index: 1;
-  }
-
-  .navbar .logo {
-    float: right;
-    font-weight: 800;
-    padding: 5px;
-    margin: 10px;
   }
 
   .navbar .menu-icon {
@@ -345,7 +339,7 @@ header {
   .navbar .sitenavigation.is-tapped > ul {
     display: block;
     position: absolute;
-    margin: 0;
+    margin-top: 14px;
     background-color: #FFF;
     right: 0;
     left: 0;
@@ -356,7 +350,7 @@ header {
   .navbar .sitenavigation.is-tapped > ul a {
     width: 100%;
     margin: 0;
-    background-color: #ECECEC;
+    background-color: #fff;
     display: block;
     font-size: 1.1875em;
     padding-top: 10px;
@@ -378,8 +372,9 @@ header {
   .navbar .sitenavigation.is-tapped > ul li {
     width: 100%;
     background-color: #f7f7f7;
-    border-bottom: solid 1px #b9b9b9;
+    /*border-bottom: solid 1px #b9b9b9;*/
     -webkit-tap-highlight-color: transparent;
+    line-height: 3;
   }
 
   .navbar .sitenavigation.is-tapped > ul li li {
@@ -424,16 +419,14 @@ header {
     color: #000;
   }
 
-  .navbar .sitenavigation.is-tapped > ul li.nav-dropdown {
+  /*.navbar .sitenavigation.is-tapped > ul li.nav-dropdown {
     cursor: pointer;
   }
-
   .navbar .sitenavigation.is-tapped > ul li.nav-dropdown > a {
     width: 80%;
   }
-
   .navbar .sitenavigation.is-tapped > ul li.nav-dropdown:after {
-    content: "\F107";
+    content: "\f107";
     font-family: FontAwesome;
     position: absolute;
     color: #000;
@@ -448,13 +441,11 @@ header {
     padding-top: 10px;
     padding-bottom: 10px;
   }
-
   .navbar .sitenavigation.is-tapped > ul li.expanded:after {
     display: none;
   }
-
   .navbar .sitenavigation.is-tapped > ul li.expanded li:first-child:before {
-    content: "\F106";
+    content: "\f106";
     font-family: FontAwesome;
     position: absolute;
     color: black;
@@ -468,7 +459,7 @@ header {
     font-weight: 700;
     padding-top: 10px;
     padding-bottom: 10px;
-  }
+  }*/
 }
 
 /* Parallax */
