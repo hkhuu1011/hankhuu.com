@@ -48,6 +48,20 @@ ul {
   float: right;
 }
 
+.btn {
+  border-color: #ccc !important;
+  color: #495057;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: #495057;
+}
+
+.btn-margin {
+  margin-top: 40px;
+}
+
 /* Navbar */
 
 header {

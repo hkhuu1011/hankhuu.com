@@ -34,6 +34,8 @@
 					<p class="content">COMING SOON</p>
 					<!-- <p class="line-break margin-top-10"></p>
 					<p class="margin-top-10"></p> -->
+
+					<a href="/#" download="resume_han_khuu" class="btn btn-default btn-margin" role="button">Download Resume</a>
 				</div>
 			</div>
 		</section>
@@ -55,8 +57,8 @@
 				  <div class="row">
 				    <div class="col-12 col-md-6 col-lg-4">
 						<div class="svg-wrapper">
-							<svg xmlns="http://www.w3.org/2000/svg">
-						    	<rect class="outline"/>
+							<!-- <svg xmlns="http://www.w3.org/2000/svg"> -->
+						    	<!-- <rect class="outline"/> -->
 									<div id="lightgallery">
 										<a href="/img/photography/DSC_6107_FinalCopy.jpg">
 											<img class="photo-preview" src="/img/photography/DSC_6107_FinalCopy.jpg" />
@@ -65,13 +67,13 @@
 											<img style="display: none;" class="photo-preview" src="/img/photography/DSC_6107_FinalCopy.jpg" />
 						 				</a>
 									</div>
-							</svg>
+							<!-- </svg> -->
 						</div>
 				    </div>
 					<div class="col-12 col-md-6 col-lg-4">
 						<div class="svg-wrapper">
-							<svg xmlns="http://www.w3.org/2000/svg">
-						    	<rect class="outline"/>
+							<!-- <svg xmlns="http://www.w3.org/2000/svg"> -->
+						    	<!-- <rect class="outline"/> -->
 									<div id="lightgallery2">
 										<a href="/img/photography/NewYork.jpg">
 											<img class="photo-preview" src="/img/photography/NewYork.jpg" />
@@ -80,13 +82,13 @@
 											<img style="display: none;" class="photo-preview" src="/img/photography/NewYork.jpg" />
 						 				</a>
 									</div>
-							</svg>
+							<!-- </svg> -->
 						</div>
 				    </div>
 				    <div class="col-12 col-md-6 col-lg-4">
 						<div class="svg-wrapper">
-							<svg xmlns="http://www.w3.org/2000/svg">
-						    	<rect class="outline"/>
+							<!-- <svg xmlns="http://www.w3.org/2000/svg"> -->
+						    	<!-- <rect class="outline"/> -->
 									<div id="lightgallery3">
 										<a href="/img/photography/DSC_7535_Final.jpg">
 											<img class="photo-preview" src="/img/photography/DSC_7535_Final.jpg" />
@@ -95,7 +97,7 @@
 											<img style="display: none;" class="photo-preview" src="/img/photography/DSC_7535_Final.jpg" />
 						 				</a>
 									</div>
-							</svg>
+							<!-- </svg> -->
 						</div>
 				    </div>
 				  </div>
@@ -125,7 +127,7 @@
 							<p>Earned my Bachelors in Studio Art, continued education in programming and</p>
 						</li>
 						<li>
-							<p>currently working somewhere in-between as a front-end developer.</p>
+							<p>currently working as a front-end developer.</p>
 						</li>
 						<li>
 							<p class="custom-text">East meets West.</p>
