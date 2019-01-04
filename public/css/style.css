@@ -411,25 +411,9 @@ ul {
   margin: 0 auto;
 }
 
-@media screen and (max-width: 959px) and (min-width: 768px) {
-  #parallax .block {
-    padding: 40px;
-    width: 620px;
-  }
-}
-
 @media screen and (max-width: 767px) {
-  #parallax .block {
-    padding: 30px;
-    width: 420px;
-  }
-
   #parallax h2 {
     font-size: 30px;
-  }
-
-  #parallax .block {
-    padding: 30px;
   }
 
   #parallax .parallax-one,
@@ -437,13 +421,6 @@ ul {
   #parallax .parallax-three {
     padding-top: 100px;
     padding-bottom: 100px;
-  }
-}
-
-@media screen and (max-width: 479px) {
-  #parallax .block {
-    padding: 30px 15px;
-    width: 290px;
   }
 }
 
