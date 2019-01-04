@@ -630,6 +630,13 @@ img.lg-object.lg-image {
   stroke-dashoffset: 0;
 }
 
+@media screen and (max-width: 991px) {
+  .photo-preview {
+    padding: 0;
+  }
+
+}
+
 /*Instagram Feed Section*/
 .ig-img {
   padding: 0 20px 20px 0;
