@@ -138,9 +138,14 @@ $(function () {
 
 // Mobile navbar
 // show/hide the mobile menu based on class added to container
-$('.menu-icon').click(function () {
-    $(this).parent().toggleClass('is-tapped');
-    $('#hamburger').toggleClass('open');
+$(function () {
+    $('.menu-icon').click(function () {
+        $(this).parent().toggleClass('is-tapped');
+        $('#hamburger').toggleClass('open');
+        // if ($('.icon').click) {
+        //     $('hamburger').removeClass('open');
+        // };
+    });
 });
 
 /***/ }),
