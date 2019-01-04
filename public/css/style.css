@@ -66,10 +66,6 @@ ul {
   h1.header-text {
     font-size: 70px;
   }
-
-  .custom-text {
-    font-size: 26px;
-  }
 }
 
 /* Navbar */
@@ -572,6 +568,12 @@ ul {
 .content.bio-paragraph {
   max-width: 650px;
   line-height: 2;
+}
+
+@media screen and (max-width: 479px) {
+  .custom-text {
+    font-size: 26px;
+  }
 }
 
 /*Photos Section*/
