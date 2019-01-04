@@ -62,6 +62,16 @@ ul {
   margin-top: 40px;
 }
 
+@media screen and (max-width: 479px) {
+  h1.header-text {
+    font-size: 70px;
+  }
+
+  .custom-text {
+    font-size: 26px;
+  }
+}
+
 /* Navbar */
 
 .nav-up {
@@ -545,7 +555,6 @@ ul {
   text-align: left;
   margin: 0;
   color: #495057;
-  line-height: 1;
   font-size: 16px;
   padding-top: 30px;
 }
@@ -557,6 +566,12 @@ ul {
   font-weight: 700;
   color: #dadada;
   font-family: 'Raleway', sans-serif;
+  margin-bottom: 0;
+}
+
+.content.bio-paragraph {
+  max-width: 650px;
+  line-height: 2;
 }
 
 /*Photos Section*/

@@ -119,24 +119,13 @@
 				</div>
 				<div class="section-underline"></div>
 				<div class="container">
-					<ul class="content">
-						<li>
-							<p>Born in Vietnam, raised in Seattle and currently living somewhere in-between in Orlando.</p>
-						</li>
-						<li>
-							<p>Earned my Bachelors in Studio Art, continued education in programming and</p>
-						</li>
-						<li>
-							<p>currently working as a front-end developer.</p>
-						</li>
-						<li>
-							<p class="custom-text">East meets West.</p>
-						</li>
-						<li>
-							<p class="custom-text">Creativity meets Code.</p>
-						</li>
-					</ul>
-					<p class="margin-top-10"></p>
+					<div class="content bio-paragraph">
+						Born in Vietnam, raised in Seattle and currently living somewhere in-between in Orlando.
+						<br>
+						Earned my Bachelors in Studio Art, continued education in programming and currently working as a front-end developer.
+					</div>
+					<p class="custom-text">East meets West.</p>
+					<p class="custom-text">Creativity meets Code.</p>
 				</div>
 			</div>
 		</section>
