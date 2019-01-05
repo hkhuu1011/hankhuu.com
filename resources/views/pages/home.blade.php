@@ -58,6 +58,7 @@
             <div class="svg-wrapper">
               <!-- <svg xmlns="http://www.w3.org/2000/svg"> -->
                 <!-- <rect class="outline"/> -->
+                  {{-- Adriana's Gallery --}}
                   <div id="lightgallery">
                     <a href="/img/photography/DSC_6107_FinalCopy.jpg">
                       <img class="photo-preview" src="/img/photography/DSC_6107_FinalCopy.jpg" />
@@ -88,12 +89,40 @@
             <div class="svg-wrapper">
               <!-- <svg xmlns="http://www.w3.org/2000/svg"> -->
                 <!-- <rect class="outline"/> -->
+                  {{-- New York Gallery --}}
                   <div id="lightgallery2">
                     <a href="/img/photography/NewYork.jpg">
                       <img class="photo-preview" src="/img/photography/NewYork.jpg" />
                     </a>
-                    <a href="/img/photography/NewYork.jpg">
-                      <img style="display: none;" class="photo-preview" src="/img/photography/NewYork.jpg" />
+                    <a href="/img/photography/NewYork2.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/NewYork2.jpg" />
+                    </a>
+                    <a href="/img/photography/NewYork3.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/NewYork3.jpg" />
+                    </a>
+                    <a href="/img/photography/NewYork4.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/NewYork4.jpg" />
+                    </a>
+                    <a href="/img/photography/NewYork5.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/NewYork5.jpg" />
+                    </a>
+                    <a href="/img/photography/NewYork6.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/NewYork6.jpg" />
+                    </a>
+                    <a href="/img/photography/NewYork7.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/NewYork7.jpg" />
+                    </a>
+                    <a href="/img/photography/NewYork8.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/NewYork8.jpg" />
+                    </a>
+                    <a href="/img/photography/NewYork9.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/NewYork9.jpg" />
+                    </a>
+                    <a href="/img/photography/NewYork10.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/NewYork10.jpg" />
+                    </a>
+                    <a href="/img/photography/NewYork11.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/NewYork11.jpg" />
                     </a>
                   </div>
               <!-- </svg> -->
