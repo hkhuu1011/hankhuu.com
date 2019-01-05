@@ -132,12 +132,22 @@
             <div class="svg-wrapper">
               <!-- <svg xmlns="http://www.w3.org/2000/svg"> -->
                 <!-- <rect class="outline"/> -->
+                  {{-- Sammatha's Gallery --}}
                   <div id="lightgallery3">
                     <a href="/img/photography/DSC_7535_Final.jpg">
                       <img class="photo-preview" src="/img/photography/DSC_7535_Final.jpg" />
                     </a>
-                    <a href="/img/photography/DSC_7535_Final.jpg">
-                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7535_Final.jpg" />
+                    <a href="/img/photography/DSC_7526_Final.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7526_Final.jpg" />
+                    </a>
+                    <a href="/img/photography/DSC_7544_Final.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7544_Final.jpg" />
+                    </a>
+                    <a href="/img/photography/DSC_7606_Final.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7606_Final.jpg" />
+                    </a>
+                    <a href="/img/photography/DSC_7608_Final.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7608_Final.jpg" />
                     </a>
                   </div>
               <!-- </svg> -->
