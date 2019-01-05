@@ -34,7 +34,7 @@
           <!-- <p class="line-break margin-top-10"></p>
           <p class="margin-top-10"></p> -->
 
-          <a href="/#" download="resume_han_khuu" class="btn btn-default btn-margin" role="button">Download Resume</a>
+          <a href="/Resume2019.docx" download="resume_han_khuu" class="btn btn-default btn-margin" role="button">Download Resume</a>
         </div>
     </div>
   </section>
