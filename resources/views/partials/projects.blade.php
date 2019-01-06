@@ -6,17 +6,17 @@
         <div class="section-underline"></div>
         <div class="container">
           <div class="row">
-            <div class="col-12 col-md-6 col-lg-4">
+            <div class="col-12 col-lg-6">
               <a href="https://bandbasher.com" target="_blank">
-                <img class="photo-preview projects" src="/img/projects/bandbasher.jpg" />
+                <img class="photo-preview projects" src="/img/projects/bandbasher_full.jpg" />
               </a>
             </div>
-            <div class="col-12 col-md-6 col-lg-4">
-              <a href="https://github.com/hkhuu1011/Recipes" target="_blank">
-                <img class="photo-preview projects" src="/img/projects/recipes.jpg" />
+            <div class="col-12 col-lg-6">
+              <a href="https://github.com/hkhuu1011/recipes" target="_blank">
+                <img class="photo-preview projects" src="/img/projects/recipes_full.jpg" />
               </a>
             </div>
-            <div class="col-12 col-md-6 col-lg-4">
+            <div class="col-12 col-lg-6">
               <img class="photo-preview projects" src="/img/photos.jpg" />
             </div>
           </div>

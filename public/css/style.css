@@ -66,6 +66,10 @@ ul {
   h1.header-text {
     font-size: 70px;
   }
+
+  h5.sub-text {
+    font-size: 16px;
+  }
 }
 
 /* Navbar */
@@ -580,8 +584,9 @@ ul {
 
 .photo-preview.projects {
   margin-top: 50px;
-  /*border: 1px #495057 solid;*/
+  border: 1px #dadada solid;
   padding: 0;
+  width: 100%;
 }
 
 /*Photos Section*/
