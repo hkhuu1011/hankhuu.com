@@ -79,9 +79,15 @@ $(function() {
     $('.menu-icon').click(function() {
         $(this).parent().toggleClass('is-tapped');
         $('#hamburger').toggleClass('open');
-        // if ($('.icon').click) {
-        //     $('hamburger').removeClass('open');
-        // };
+    });
+});
+
+// Hides mobile menu when list item is clicked
+$(function() {
+    $('li').click(function() {
+        $('.sitenavigation').toggleClass('is-tapped');
+        $('#hamburger').toggleClass('open');
+        console.log('clicked');
     });
 });
 
