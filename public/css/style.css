@@ -582,11 +582,32 @@ ul {
 
 /*Projects Section*/
 
-.photo-preview.projects {
+.project-img {
   margin-top: 50px;
   border: 1px #dadada solid;
   padding: 0;
   width: 100%;
+  height: 320px;
+  display: inline-block;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+#project-preview {
+  position: relative;
+}
+
+#project-info,
+#project-info2 {
+  background-color: #ffffffeb;
+  width: 100%;
+  height: 60%;
+  display: none;
+  position: absolute;
+  left: 0;
+  bottom: 0;
 }
 
 /*Photos Section*/
@@ -609,7 +630,7 @@ img.lg-object.lg-image {
   /* IE5+ */
   -webkit-filter: grayscale(1);
   /* Webkit Nightlies & Chrome Canary */
-  -webkit-transition: all .8s ease-in-out;
+  -webkit-transition: all .5s ease-in-out;
 }
 
 .photo-preview:hover {
