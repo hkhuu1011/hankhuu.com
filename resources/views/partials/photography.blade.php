@@ -111,6 +111,6 @@
     </div>
     <div class="container">
       <!-- <div class="right"><a href="/photos/more">More photos</a></div> -->
-      <small class="right" style="color:#ccc">(More coming soon)</small>
+      <small class="right" style="color:#ccc">(More photos coming soon!)</small>
     </div>
   </section>
