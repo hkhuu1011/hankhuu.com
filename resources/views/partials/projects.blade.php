@@ -13,7 +13,7 @@
                   <img class="project-img" src="/img/projects/bandbasher_full.jpg" />
                   <div id="project-info" class="info-text">
                     <h4>bandbasher</h4>
-                    <p>Helping musicans develop their skills as well as branding themselves.</p>
+                    <p>Helping artists/musicians develop their skills as well as branding themselves on social media. Providing users with lesson videos and quizzes, in addition to storing and sharing their music with like minded individuals.</p>
                     <p>Click to view more on bandbasher.com</p>
                   </div>
                 </a>
