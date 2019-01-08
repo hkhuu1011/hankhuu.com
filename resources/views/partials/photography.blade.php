@@ -11,7 +11,7 @@
             <div class="svg-wrapper">
               <!-- <svg xmlns="http://www.w3.org/2000/svg"> -->
                 <!-- <rect class="outline"/> -->
-                  {{-- Adriana's Gallery --}}
+                  <!-- Adriana's Gallery -->
                   <div id="lightgallery">
                     <a href="/img/photography/DSC_6107_FinalCopy.jpg">
                       <img class="photo-preview" src="/img/photography/DSC_6107_FinalCopy.jpg" />
@@ -42,7 +42,7 @@
             <div class="svg-wrapper">
               <!-- <svg xmlns="http://www.w3.org/2000/svg"> -->
                 <!-- <rect class="outline"/> -->
-                  {{-- New York Gallery --}}
+                  <!-- New York Gallery -->
                   <div id="lightgallery2">
                     <a href="/img/photography/NewYork.jpg">
                       <img class="photo-preview" src="/img/photography/NewYork.jpg" />
@@ -85,7 +85,7 @@
             <div class="svg-wrapper">
               <!-- <svg xmlns="http://www.w3.org/2000/svg"> -->
                 <!-- <rect class="outline"/> -->
-                  {{-- Sammatha's Gallery --}}
+                  <!-- Sammatha's Gallery -->
                   <div id="lightgallery3">
                     <a href="/img/photography/DSC_7535_Final.jpg">
                       <img class="photo-preview" src="/img/photography/DSC_7535_Final.jpg" />
