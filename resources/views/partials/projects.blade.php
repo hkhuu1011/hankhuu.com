@@ -11,7 +11,10 @@
               <div id="project-preview">
                 <a href="https://bandbasher.com" target="_blank">
                   <img class="project-img" src="/img/projects/bandbasher_full.jpg" />
-                  <div id="project-info"></div>
+                  <div id="project-info">
+                    <h4>bandbasher</h4>
+                    <p>Helping musicans develop their skills as well as branding themselves.</p>
+                  </div>
                 </a>
               </div>
             </div>
