@@ -14,6 +14,7 @@
                   <div id="project-info">
                     <h4>bandbasher</h4>
                     <p>Helping musicans develop their skills as well as branding themselves.</p>
+                    <p>Click to view more on bandbasher.com</p>
                   </div>
                 </a>
               </div>
@@ -22,7 +23,11 @@
               <div id="project-preview2">
                 <a href="https://github.com/hkhuu1011/recipes" target="_blank">
                   <img class="project-img" src="/img/projects/recipes_full.jpg" />
-                  <div id="project-info2"></div>
+                  <div id="project-info2">
+                    <h4>Recipes</h4>
+                    <p>A recipe finder, using ingredients as keywords to find the recipe you're looking for! If you something that you like, you can save it, as well as your own personal notes/modifications, and refer to it later.</p>
+                    <p>Click to view more on Github.</p>
+                  </div>
                 </a>
               </div>
             </div>

@@ -169,10 +169,10 @@ $('a').each(function () {
 
 // Project Details
 $('#project-preview').hover(function () {
-	$('#project-info').slideToggle(900);
+	$('#project-info').slideToggle(500);
 });
 $('#project-preview2').hover(function () {
-	$('#project-info2').slideToggle(900);
+	$('#project-info2').slideToggle(500);
 });
 
 // lightGallery
