@@ -714,7 +714,14 @@ img.lg-object.lg-image {
   .photo-preview {
     padding: 0;
   }
+
+  .arrow-overlay {
+    position: absolute;
+    z-index: 2;
+  }
 }
+
+/*@media (max-width: 767.98px) { ... }*/
 
 /*Instagram Feed Section*/
 

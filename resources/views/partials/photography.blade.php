@@ -14,6 +14,7 @@
                   <!-- Adriana's Gallery -->
                   <div id="lightgallery">
                     <a href="/img/photography/DSC_6107_resized.jpg">
+                      <img class="arrow-overlay d-block d-sm-block d-md-block d-lg-none" src="/img/photography/arrow-overlay.png">
                       <img class="photo-preview" src="/img/photography/DSC_6107_resized.jpg"/>
                     </a>
                     <a href="/img/photography/DSC_6054_resized.jpg">
@@ -45,6 +46,7 @@
                   <!-- New York Gallery -->
                   <div id="lightgallery2">
                     <a href="/img/photography/NewYork.jpg">
+                      <img class="arrow-overlay d-block d-sm-block d-md-block d-lg-none" src="/img/photography/arrow-overlay.png">
                       <img class="photo-preview" src="/img/photography/NewYork.jpg" />
                     </a>
                     <a href="/img/photography/NewYork2.jpg">
@@ -88,6 +90,7 @@
                   <!-- Sammatha's Gallery -->
                   <div id="lightgallery3">
                     <a href="/img/photography/DSC_7535_resized.jpg">
+                      <img class="arrow-overlay d-block d-sm-block d-md-block d-lg-none" src="/img/photography/arrow-overlay.png">
                       <img class="photo-preview" src="/img/photography/DSC_7535_resized.jpg" />
                     </a>
                     <a href="/img/photography/DSC_7526_resized.jpg">
