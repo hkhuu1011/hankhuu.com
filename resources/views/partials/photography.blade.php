@@ -13,26 +13,26 @@
                 <!-- <rect class="outline"/> -->
                   <!-- Adriana's Gallery -->
                   <div id="lightgallery">
-                    <a href="/img/photography/DSC_6107_FinalCopy.jpg">
-                      <img class="photo-preview" src="/img/photography/DSC_6107_FinalCopy.jpg" />
+                    <a href="/img/photography/DSC_6107_resized.jpg">
+                      <img class="photo-preview" src="/img/photography/DSC_6107_resized.jpg"/>
                     </a>
-                    <a href="/img/photography/DSC_6054_FinalCopy.jpg">
-                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_6054_FinalCopy.jpg" />
+                    <a href="/img/photography/DSC_6054_resized.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_6054_resized.jpg" />
                     </a>
-                    <a href="/img/photography/DSC_6097_FinalCopy.jpg">
-                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_6097_FinalCopy.jpg" />
+                    <a href="/img/photography/DSC_6097_resized.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_6097_resized.jpg" />
                     </a>
-                    <a href="/img/photography/DSC_6048_FinalCopy.jpg">
-                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_6048_FinalCopy.jpg" />
+                    <a href="/img/photography/DSC_6048_resized.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_6048_resized.jpg" />
                     </a>
-                    <a href="/img/photography/DSC_6119_FinalCopy.jpg">
-                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_6119_FinalCopy.jpg" />
+                    <a href="/img/photography/DSC_6119_resized.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_6119_resized.jpg" />
                     </a>
-                    <a href="/img/photography/DSC_6149_FinalCopy.jpg">
-                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_6149_FinalCopy.jpg" />
+                    <a href="/img/photography/DSC_6149_resized.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_6149_resized.jpg" />
                     </a>
-                    <a href="/img/photography/DSC_6165_FinalCopy.jpg">
-                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_6165_FinalCopy.jpg" />
+                    <a href="/img/photography/DSC_6165_resized.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_6165_resized.jpg" />
                     </a>
                   </div>
               <!-- </svg> -->
@@ -87,20 +87,20 @@
                 <!-- <rect class="outline"/> -->
                   <!-- Sammatha's Gallery -->
                   <div id="lightgallery3">
-                    <a href="/img/photography/DSC_7535_Final.jpg">
-                      <img class="photo-preview" src="/img/photography/DSC_7535_Final.jpg" />
+                    <a href="/img/photography/DSC_7535_resized.jpg">
+                      <img class="photo-preview" src="/img/photography/DSC_7535_resized.jpg" />
                     </a>
-                    <a href="/img/photography/DSC_7526_Final.jpg">
-                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7526_Final.jpg" />
+                    <a href="/img/photography/DSC_7526_resized.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7526_resized.jpg" />
                     </a>
-                    <a href="/img/photography/DSC_7544_Final.jpg">
-                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7544_Final.jpg" />
+                    <a href="/img/photography/DSC_7544_resized.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7544_resized.jpg" />
                     </a>
-                    <a href="/img/photography/DSC_7606_Final.jpg">
-                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7606_Final.jpg" />
+                    <a href="/img/photography/DSC_7606_resized.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7606_resized.jpg" />
                     </a>
-                    <a href="/img/photography/DSC_7608_Final.jpg">
-                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7608_Final.jpg" />
+                    <a href="/img/photography/DSC_7608_resized.jpg">
+                      <img style="display: none;" class="photo-preview" src="/img/photography/DSC_7608_resized.jpg" />
                     </a>
                   </div>
               <!-- </svg> -->
