@@ -35,7 +35,7 @@ function hasScrolled() {
     }
 
     lastScrollTop = st;
-}
+};
 
 $(function() {
    $("li").click(function() {
@@ -72,7 +72,6 @@ $(function() {
     });
 });
 
-
 // Mobile navbar
 // show/hide the mobile menu based on class added to container
 $(function() {
@@ -87,8 +86,5 @@ $(function() {
     $('li').click(function() {
         $('.sitenavigation').toggleClass('is-tapped');
         $('#hamburger').toggleClass('open');
-        console.log('clicked');
     });
 });
-
-
