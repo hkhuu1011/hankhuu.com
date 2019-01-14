@@ -104,7 +104,7 @@ function hasScrolled() {
     }
 
     lastScrollTop = st;
-}
+};
 
 $(function () {
     $("li").click(function () {
@@ -150,7 +150,6 @@ $(function () {
     $('li').click(function () {
         $('.sitenavigation').toggleClass('is-tapped');
         $('#hamburger').toggleClass('open');
-        console.log('clicked');
     });
 });
 
