@@ -360,8 +360,8 @@ ul {
   overflow: hidden;
   position: relative;
   width: 100%;
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 255, 255, 0)), color-stop(85%, white), to(white)), url("/img/pipes.png");
-  background: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, white 85%, white 100%), url("/img/pipes.png");
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 255, 255, 0)), color-stop(95%, white), to(white)), url("/img/pipes.png");
+  background: linear-gradient(to top, rgba(255, 255, 255, 0) 0%, white 95%, white 100%), url("/img/pipes.png");
   background-attachment: fixed;
   /*background-size: cover;*/
   /*-moz-background-size: cover;*/
@@ -429,8 +429,8 @@ ul {
   #parallax .parallax-one,
   #parallax .parallax-two,
   #parallax .parallax-three {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 150px;
+    padding-bottom: 150px;
   }
 }
 
