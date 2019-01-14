@@ -1,4 +1,4 @@
-<section class="photography hover-underline">
+<section class="photography hover-underline d-none d-sm-none d-md-block">
     <div class="block">
       <div class="container">
         <div class="section-title sliding-u-l-r">Photography</div>

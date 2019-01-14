@@ -33,7 +33,7 @@
   </section> -->
 
   {{-- Photography Section --}}
-  {{-- @include ('partials.photography') --}}
+  @include ('partials.photography')
 
   <!-- @ INCLUDE PARTIALS.IG_FEED WHEN READY -->
 
